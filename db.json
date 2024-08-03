@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "writ essay in AI",
+      "status": false
+    },
+    {
+      "id": 3,
+      "task": "we can develop the website",
+      "status": false
+    },
+    {
+      "id": 5,
+      "task": "we can develop the website",
+      "status": false
+    },
+    {
+      "id": 7,
+      "task": "we can develop the website",
+      "status": false
+    },
+    {
+      "id": 9,
+      "task": "we are frontEnd develop the website",
+      "status": false
+    }
+  ]
+}
